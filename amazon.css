@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important; */
+    font-family: sans-serif;
+    font-weight: unset;
+}
+.container{
+    width: 100%;
+}
+.search-icon{
+    background: transparent;
+}
+.header{
+    width: 100%;
+    height: 72px;
+    background-color:#0f171e;
+    position: fixed;
+}
+.logo-bar{
+    align-items: center;
+    width: 100%;
+    height: 41px;
+    padding: 16px;
+    display: flex;
+}
+.logo{
+   margin-left: 20px;
+
+}
+
+
+
+
+.nav{
+    float: left;
+    color: rgba(242,244,246,.9);
+    font-size: 17px;
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    width: 841px;
+
+}
+.button-bar{
+    float: left;
+
+}
+.button{
+    background-color: #00a0d6cc;
+    text-align: center;
+    border: none;
+    font-size: 17px;
+    color: rgba(242,244,246,.9);
+    padding: 5px;
+    border-radius: 3px;
+    padding-right: 13px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color:#00a0d6  ;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+}
+.fixed{
+    width: 100%;
+    height: 72px;
+
+}
+.image1{
+    width: 100%;
+    height: 495px;
+    background-image: linear-gradient( to right, #000 40%, transparent 58% ), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg);
+    background-position: right top;
+   
+}
+.img1-text{
+    width: 604.34px;
+    padding: 69px;
+    color: white;
+
+}
+.text-1{
+    font-size: 20px;
+    font-weight: initial;
+   
+
+}
+.text2{
+    font-size: 25px;
+    margin-top: 15px;
+}
+.button1{
+    height: 47px;
+    margin-top: 14px;
+    width: 276px;
+    background-color: rgb(15, 121, 175);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    opacity: .6;
+   
+}
+.button1:hover{
+    opacity: 1;
+}
+ .image2{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(to right, #000 40%, transparent 58%), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/MLP/TVOD/MLP_TVOD_KGF2.jpg);
+     background-position: right top; */
+     background-position-x: right; */
+     background-position-y: top; */
+}
+.img2-text{
+    width: 604.34px;
+    padding: 69px;
+    color: white;
+    padding-top: 153px;
+
+}
+.image3{
+    width: 100%;
+    height: 443px;
+
+}
+.imag3-text{
+    width: 543px;
+    padding: 60px;
+    color: black;
+    padding-top: 29px;
+
+    
+}
+.content-class{
+    align-items: center;
+    height: 100%;
+    width: 90%;
+    padding: 10px 5%;
+    
+
+}
+.text-grid{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.img-grid{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.img{
+    width: 195px;
+    height: 134px;
+    cursor: pointer;
+}
+.img:hover{
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+}
+.image4{
+    width: 100%;
+    height: 518px;
+    background-image: linear-gradient(to left, #000 40%, transparent 58%), url(https://images-na.ssl-images-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_Template_Image_Left.jpg);
+  background-position: left top;
+}
+.img4-text{
+    width: 604.34px;
+    padding: 69px;
+    color: white;
+    margin-left: 645px;
+
+}
+.image5{
+    width: 100%;
+    height: 526px;
+    background-image: linear-gradient(to right, #000 40%, transparent 58%), url(https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-kids-30Jan._CB1517304519_.jpg);
+}
+.footer{
+    width: 100%;
+    height: 127px;
+    background-color: #0f171e;
+}
+.img-foot{
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+    margin-left: 50%;
+}
+.header-end{
+    cursor: pointer;
+}
+.header-end:hover{
+    opacity: .9;
+    
+}
+li{
+    cursor: pointer;
+    opacity: .7;
+}
+li:hover{
+    opacity: 1;
+}
